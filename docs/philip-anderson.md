@@ -7,3 +7,5 @@
  Favorite food: Chinese food
  
  Hobby: Playing video games
+
+ Favorite color: Navy
